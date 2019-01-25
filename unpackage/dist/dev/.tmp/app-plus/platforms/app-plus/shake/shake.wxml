@@ -1,0 +1,2 @@
+<import src="./shake.vue.wxml" />
+    <template is="bf7138a6" data="{{ ...$root['0'], $root }}"/>

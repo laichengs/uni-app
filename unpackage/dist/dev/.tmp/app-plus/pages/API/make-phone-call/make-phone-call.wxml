@@ -1,0 +1,2 @@
+<import src="./make-phone-call.vue.wxml" />
+    <template is="3819e69f" data="{{ ...$root['0'], $root }}"/>
